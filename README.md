@@ -10,7 +10,7 @@ A lightweight, GUI-based Python utility to easily change the default system font
 * **Zero Dependencies:** Uses only Python's built-in standard library.
 
 ## Installing
-Go into [releases](https://github.com/H77CMDx/HK-FontChanger/releases) and install the zip archive. Or click [here](https://github.com/H77CMDx/HK-FontChanger/releases/download/Release/HK.Font.Changer.zip)
+Go into [releases](https://github.com/H77CMDx/HK-FontChanger/releases) and install the zip archive. 
 
 ## Important Warnings
 
