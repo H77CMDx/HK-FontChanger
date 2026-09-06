@@ -2,6 +2,9 @@
 
 A lightweight, GUI-based Python utility to easily change the default system font on Windows. Built with `tkinter` and `winreg`, it requires no external dependencies and automatically handles Administrator elevation. 
 
+<img width="263" height="320" alt="Screenshot 2026-09-06 133646" src="https://github.com/user-attachments/assets/312bffc9-7d11-4e33-afbe-079403968c99" />
+
+
 ## Features
 
 * **Live Font Preview:** Instantly see how your chosen font looks before applying it.
