@@ -1,6 +1,6 @@
 # Windows System Font Changer
 
-A lightweight, GUI-based Python utility to easily change the default system font on Windows. Built with `tkinter` and `winreg`, it requires no external dependencies and automatically handles Administrator elevation.
+A lightweight, GUI-based Python utility to easily change the default system font on Windows. Built with `tkinter` and `winreg`, it requires no external dependencies and automatically handles Administrator elevation. 
 
 ## Features
 
@@ -8,6 +8,9 @@ A lightweight, GUI-based Python utility to easily change the default system font
 * **Auto-Elevation:** Automatically prompts for Windows UAC (Administrator) permissions on startup.
 * **One-Click Restore:** Easily revert back to the default Windows font (Segoe UI).
 * **Zero Dependencies:** Uses only Python's built-in standard library.
+
+## Installing
+Go into [releases] (https://github.com/H77CMDx/HK-FontChanger/releases) and install the zip archive. Or click [here](https://github.com/H77CMDx/HK-FontChanger/releases/download/Release/HK.Font.Changer.zip)
 
 ## Important Warnings
 
